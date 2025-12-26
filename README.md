@@ -63,7 +63,7 @@ Please download all the txt files required.
 
 5) Drag and drop the txt files into SC2002-Project_SC2002FOMS folder
 
-6) In 'Main' > 'FomsApp.java' , run as Java Application
+6) In 'Main' > 'FomsApp.java', run as Java Application
 
 You have successfully cloned and run SC2002 FOMS on Eclipse!
 
@@ -88,3 +88,4 @@ You can refer to [UML](https://github.com/Izackyy/SC2002-FOMS/blob/main/SC2002FO
 You can refer to the [report](https://github.com/Izackyy/SC2002-FOMS/blob/main/SC2002FOMS/FDAB%20Group6%20Report.pdf) we created on this project.
 
 _Submission: This repository is submitted to Nanyang Technological University Singapore as a project for SC2002 in AY2023/24 Semester 2_
+
