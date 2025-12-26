@@ -1,8 +1,6 @@
-# SC2002 Project 
+# SC2002 - Object Oriented Design & Programming
 
-NTU AY2023/24 Semester 2 SC2002 Group Project - Food Order Management System (FOMS).
-
-Food Order Management System (FOMS) is a Java console application that utilizes object-oriented concepts to efficiently manage streamlining the process of ordering, payment,
+**Food Order Management System** (FOMS) is a Java console application that utilizes object-oriented concepts to efficiently manage streamlining the process of ordering, payment,
 and order management for both customers and staff at Fastfood restaurants. The program is designed with a focus on reusability, extensibility, and maintainability, allowing for easy upgrades and future development. It provides flexibility to accommodate different user types and their requirements.
 
 ## Team Members
@@ -89,6 +87,4 @@ You can refer to [UML](https://github.com/Izackyy/SC2002-FOMS/blob/main/SC2002FO
 
 You can refer to the [report](https://github.com/Izackyy/SC2002-FOMS/blob/main/SC2002FOMS/FDAB%20Group6%20Report.pdf) we created on this project.
 
-## License
-
-[MIT](LICENSE) © Aaron, Dana, Isaac, Jamie, Jun Sheng
+_Submission: This repository is submitted to Nanyang Technological University Singapore as a project for SC2002 in AY2023/24 Semester 2_
